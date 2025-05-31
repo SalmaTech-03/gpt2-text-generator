@@ -12,16 +12,11 @@ The app takes a text prompt as input and generates a continuation using a pre-tr
 
 ## 🚀 How to Run
 
-### 1. Clone the Repository
-
-git clone https://github.com/your-username/gpt2-text-generator.git
-cd gpt2-text-generator
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 pip install -r requirements.txt
 
-### 3. Run the App
+### 2. Run the App
 
 python app.py
 
